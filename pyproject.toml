@@ -1,6 +1,6 @@
 [project]
 name = "atomic-write"
-version = "0.1.0"
+version = "0.1.1"
 description = "Write files atomically so readers never see a half-written file."
 requires-python = ">=3.10"
 dependencies = []
